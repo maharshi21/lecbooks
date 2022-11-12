@@ -1,0 +1,6 @@
+package com.example.lecbooks
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
